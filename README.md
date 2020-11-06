@@ -4,20 +4,20 @@
 -->
 >Documentacion 
 
-- [1. Definiciones y especificación de requerimientos](#1.-Definiciones-y-especificación-de-requerimientos)
-  - [a. Definición general del proyecto de software](#a.-Definición-general-del-proyecto-de-software)
-  - [b. Especificación de requerimientos del proyecto](#b.-Especificación-de-requerimientos-del-proyecto)
-  - [c. Procedimientos de instalación y prueba:](#c.-Procedimientos-de-instalación-y-prueba:)
-- [2. Arquitectura del sistema](#2.-Arquitectura-del-sistema). 
-- [3. Diseño del modelo de datos](#3.-Diseño-del-modelo-de-datos)
-- [4. Descripción de procesos y servicios ofrecidos por el sistema](#4.-Descripción-de-procesos-y-servicios-ofrecidos-por-el-sistema)
+- [1. Definiciones y especificación de requerimientos](#1-Definiciones-y-especificación-de-requerimientos)
+  - [a. Definición general del proyecto de software](#a-Definición-general-del-proyecto-de-software)
+  - [b. Especificación de requerimientos del proyecto](#b-Especificación-de-requerimientos-del-proyecto)
+  - [c. Procedimientos de instalación y prueba\:](#c-Procedimientos-de-instalación-y-prueba)
+- [2. Arquitectura del sistema](#2-Arquitectura-del-sistema). 
+- [3. Diseño del modelo de datos](#3-Diseño-del-modelo-de-datos)
+- [4. Descripción de procesos y servicios ofrecidos por el sistema](#4-Descripción-de-procesos-y-servicios-ofrecidos-por-el-sistema)
 
 >Instrumentos Consumo Tabaco 
-- [Test de Fagerström de dependencia de la nicotina (1991)](#Test-de-Fagerström-de-dependencia-de-la-nicotina-(1991))
+- [Test de Fagerström de dependencia de la nicotina \(1991\)](#Test-de-Fagerström-de-dependencia-de-la-nicotina-1991)
 
 >Instrumentos Para medición de Alcohol y Tabaco
 
-- [INSTRUMENTO DE DETECCION DE TRASTORNO POR USO DE ALCOHOL](#INSTRUMENTO-DE-DETECCION-DE-TRASTORNO-POR-USO-DE-ALCOHOL)
+- [Instrumento de detección de transtorno por uso de alcohol](#Instrumento-de-detección-de-transtorno-por-uso-de-alcohol)
 - [Puntuación para la detección del consumo de alcohol](#Puntuación-para-la-detección-del-consumo-de-alcohol)
 
 
@@ -55,7 +55,7 @@ Los usuarios secundarios que serían todos los funcionarios
 
 * Información de autoría y Legacy del proyecto:Alcances del sistema:
 
-### c. Procedimientos de instalación y prueba:
+### c. Procedimientos de instalación y prueba
 
 * Requisitos no funcionales:
 
@@ -90,7 +90,7 @@ Los usuarios secundarios que serían todos los funcionarios
 <!-- ################################ -->
 
 
-## **Test de Fagerström de dependencia de la nicotina (1991)**
+## Test de Fagerström de dependencia de la nicotina 1991
 
 |Pregunta |Respuesta |Puntuación |
 |--------|----------:|-----------:|
@@ -98,16 +98,15 @@ Los usuarios secundarios que serían todos los funcionarios
 |¿Encuentra dificultad para no fumar en los sitios donde está prohibido (cine...)?| Sí - No| 1 0|
 |¿Qué cigarrillo le desagrada más dejar de fumar?| (El primero) (Otro)| 1 0
 |¿Cuántos cigarrillos fuma cada día?| (Más de 30) (21-30) (11-20) (Menos de 11) | 3 2 1 0
-|¿Fuma más durante las primeras horas tras levantarse que durante el resto del día?| Sí No| >1 0
-|¿Fuma aunque esté tan enfermo que tenga que guardar cama la mayor parte del día?| Sí No| 1 0|
+|¿Fuma más durante las primeras horas tras levantarse que durante el resto del día?| Sí - No| >1 0
+|¿Fuma aunque esté tan enfermo que tenga que guardar cama la mayor parte del día?| Sí - No| 1 0|
 
 
 <!-- ################################ -->
 <!-- Medicion alcohol y tabaco -->
 <!-- ################################ -->
 
-## **INSTRUMENTO DE DETECCION DE TRASTORNO POR USO DE ALCOHOL**
-
+## Instrumento de detección de transtorno por uso de alcohol
 1) ¿Con qué frecuencia consume bebidas que contienen alcohol?
 
 
@@ -222,7 +221,7 @@ Sí, pero no en el último año (2 puntos)
 
 Sí, durante el último año (4 puntos
 
-### **Puntuación para la detección del consumo de alcohol**
+### Puntuación para la detección del consumo de alcohol
 
 
 | | |
